@@ -1,0 +1,17 @@
+/.cvsignore/1.6/Fri Aug 31 00:15:53 2007//Tcheckpoint65t
+/README/1.4/Mon Mar 10 01:35:16 2014//Tcheckpoint65t
+D/build////
+D/code////
+D/code_ad////
+D/code_alt////
+D/input////
+D/input.icedyn////
+D/input.seaice////
+D/input.thsice////
+D/input.viscA4////
+D/input_ad////
+D/input_ad.seaice////
+D/input_ad.seaice_dynmix////
+D/input_ad.thsice////
+D/results////
+D/run////

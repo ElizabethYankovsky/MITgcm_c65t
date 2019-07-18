@@ -1,0 +1,24 @@
+/Makefile/1.6/Wed Sep  7 14:55:32 2005//Tcheckpoint65t
+/Makefile_macosx/1.1/Thu Nov 11 00:38:43 2010//Tcheckpoint65t
+/README/1.2/Thu Sep  8 21:25:02 2005//Tcheckpoint65t
+/blas1.h/1.2/Fri Nov 15 04:03:24 2002//Tcheckpoint65t
+/cubic.F/1.2/Fri Nov 15 04:03:24 2002//Tcheckpoint65t
+/data.ctrl/1.1/Thu Sep  8 21:27:21 2005//Tcheckpoint65t
+/data.ecco/1.1/Thu Sep  8 21:27:21 2005//Tcheckpoint65t
+/data.optim/1.1/Thu Sep  8 21:27:21 2005//Tcheckpoint65t
+/dgscale.F/1.4/Thu Sep  9 15:51:26 2004//Tcheckpoint65t
+/dostore.F/1.5/Sun Mar 12 08:21:47 2006//Tcheckpoint65t
+/hessupd.F/1.4/Wed Nov 19 19:07:02 2003//Tcheckpoint65t
+/instore.F/1.4/Sun Mar 12 08:21:47 2006//Tcheckpoint65t
+/libblas1.a_IRIX64.gz/1.1/Thu Sep  9 15:48:30 2004//Tcheckpoint65t
+/libblas1.a_SUN.gz/1.1/Fri Nov 15 04:03:24 2002//Tcheckpoint65t
+/libgoto_it2-r0.95.so.gz/1.1/Thu Sep  9 15:48:29 2004//Tcheckpoint65t
+/libgoto_p4_512-r0.94.so.gz/1.1/Fri Dec  3 00:53:53 2004//Tcheckpoint65t
+/lsline.F/1.4/Wed Nov 19 19:07:02 2003//Tcheckpoint65t
+/lsopt_doc.txt/1.2/Fri Nov 15 04:03:24 2002//Tcheckpoint65t
+/lsopt_top.F/1.7/Sun Mar 12 08:21:47 2006//Tcheckpoint65t
+/lsupdxx.F/1.4/Wed Nov 19 19:07:02 2003//Tcheckpoint65t
+/lswri.F/1.4/Wed Sep  7 14:54:19 2005//Tcheckpoint65t
+/outstore.F/1.2/Fri Nov 15 04:03:24 2002//Tcheckpoint65t
+/q.log/1.2/Fri Nov 15 04:03:24 2002//Tcheckpoint65t
+D
