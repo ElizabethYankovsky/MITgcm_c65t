@@ -45,14 +45,13 @@
 
 # Time stepping parameters
  &PARM03
- nIter0=691200,
+ nIter0=1036800,
  nTimeSteps=345600,
-#nTimeSteps=8640,
  deltaT=5.0,
  abEps=0.01,
  pChkptFreq=1728000.0,
  chkptFreq=0.,
- dumpFreq=21600.0,
+ dumpFreq=3600.0,
 #taveFreq=864000.0,
  monitorSelect=2,
  monitorFreq=10.,
